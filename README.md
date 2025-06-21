@@ -40,7 +40,7 @@
 
 ### 📫 Contact Me
 - 💼 Mail: **vasudevan180603@gmail.com**
-- 🌐 [LinkedIn]([https://linkedin.com/in/vasudevan-dev](https://www.linkedin.com/in/vasudevan-n-3a4071237) *(create if not already)*
+- 🌐 LinkedIn (https://www.linkedin.com/in/vasudevan-n-3a4071237)
 
 ---
 
