@@ -2,7 +2,6 @@
 
 🎯 A passionate Full-Stack Flutter Developer from Ponnamaravathi, Tamil Nadu.  
 🧠 Currently focused on mobile apps, eCommerce, CRM systems, and preparing for top tech roles (e.g., Google).  
-💼 Freelancing under **NSV Infotech** | YouTube Channel: [Kamal Works](https://youtube.com/@kamalworks)
 
 ---
 
@@ -19,12 +18,8 @@
 #### 🔹 Bharat Petroleum App
 - A full-featured petroleum billing & stock management app
 - Tech: Flutter + Firebase + Node.js
-
-#### 🔹 National Shopping Mall (Website)
-- eCommerce site with dual slider UI and custom admin panel
-- Tech: React.js, Node.js API, Firebase integration, WhatsApp Cloud API
-
-#### 🔹 Salon Booking App
+- 
+#### 🔹 Saloon Booking App
 - Flutter app + Hostinger-hosted admin panel
 - Deep linking setup, appointment scheduling, and WhatsApp updates
 
@@ -39,17 +34,13 @@
 ---
 
 ### 🎯 Goals for 2025
-- ✅ Get placed at Google or top MNC
 - 🚀 Master DSA, System Design, and Competitive Programming
-- 🧑‍🏫 Build educational content on my channel (Kamal Works)
-- 💰 Grow NSV Infotech as a reliable freelance software service
 
 ---
 
 ### 📫 Contact Me
-- 💼 Freelance inquiries: **nsvinfotech@gmail.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/vasudevan-dev) *(create if not already)*
-- 🧑‍💻 [YouTube - Kamal Works](https://youtube.com/@kamalworks)
+- 💼 Mail: **vasudevan180603@gmail.com**
+- 🌐 [LinkedIn]([https://linkedin.com/in/vasudevan-dev](https://www.linkedin.com/in/vasudevan-n-3a4071237) *(create if not already)*
 
 ---
 
