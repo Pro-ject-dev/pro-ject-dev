@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vasudevan Nagarajan
 
-🎯 A passionate Full-Stack Flutter Developer from Ponnamaravathi, Tamil Nadu.  
+🎯 A passionate Full-Stack Flutter Developer.  
 🧠 Currently focused on mobile apps, eCommerce, CRM systems, and preparing for top tech roles (e.g., Google).  
 
 ---
